@@ -85,6 +85,17 @@ A business management solution designed to help installment-based businesses man
 - Docker, CI/CD, and production deployment practices
 - Building scalable SaaS products and business automation tools
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ubaidurrehman19&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidurrehman19&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaidurrehman19&theme=radical&hide_border=true" />
+</p>
+
 ---
 
 ## 🤝 Let's Connect
